@@ -1,0 +1,148 @@
+﻿
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Home | CLOTHINGRENTAL</title>
+    <link href="~/eshop/css/bootstrap.min.css" rel="stylesheet" asp-append-version="true">
+    <link href="~/eshop/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/eshop/css/prettyPhoto.css" rel="stylesheet">
+    <link href="~/eshop/css/price-range.css" rel="stylesheet">
+    <link href="~/eshop/css/animate.css" rel="stylesheet">
+    <link href="~/eshop/css/main.css" rel="stylesheet">
+    <link href="~/eshop/css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="~/eshop/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="~/eshop/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="~/eshop/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="~/eshop/images/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+
+<body>
+    <header id="header">
+        <!--header-->
+        <div class="header_top">
+            <!--header_top-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                       
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="social-icons pull-right">
+                            <ul class="nav navbar-nav">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/header_top-->
+
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 clearfix">
+                        <div class="logo pull-left">
+                            <a href="/Home/Index"><img src="~/eshop/images/home/glamour5.png"  /></a>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8 clearfix">
+                        <div class="shop-menu clearfix pull-right">
+                            <ul class="nav navbar-nav">
+                                    
+                                @if (User.Identity!.IsAuthenticated)
+                                {
+
+                                    <li><a href="/Home/Index"><i class="fa fa-user"></i> @Context.Session.GetString("Ad") @Context.Session.GetString("Soyad")</a></li>
+
+                                    <li><a href="/Account/LogOut"><i class="fa fa-lock"></i> Çıkış Yap</a></li>
+                                    <li>
+                                        <a href="/Cart/Index">
+                                            <img src="~/eshop/images/home/sepet1.png" width="30" height="30" /><label style="color:red">
+                                                @Html.Partial("TotalCount", "Cart")
+                                            </label>
+                                        </a>
+                                    </li>
+                                    <li><a href="/Sales/Index"><i class="fa fa-dollar"></i> Siparişlerim</a></li>
+                                }
+
+                                else
+                                {
+                                    <li><a href="/Account/Login"><i class="fa fa-lock"></i> Giriş Yap</a></li>
+                                }
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <li><a href="/Admin/Index"><i class="fa fa-lock"></i> Admin Paneli</a></li>
+                                }
+                                <li><a href="/Home/Index"> Anasayfa</a></li>
+
+
+                               @*  <li><a href="/Cart/Index"><img src="~/Content/Image/sepet1.jpg" width="30" height="30" /><label style="color:red">@{Html.RenderAction("TotalCount", "Cart");}</label></a></li>
+                                <li><a href="/Sales/Index"><i class="fa fa-dollar"></i> Satışlarım</a></li> *@
+
+
+
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/header-middle-->
+
+
+    </header><!--/header-->
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <footer id="footer">
+        <!--Footer-->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="companyinfo">
+                            <h2><span>G L A M O U R&nbsp;&nbsp;</span>R E N T A L</h2>
+
+                        </div>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <p class="pull-left">Copyright © 2024. Tüm Hakları Sakldır.</p>
+                    <p class="pull-right"> <span style="color:#4663"></span></p>
+                </div>
+            </div>
+        </div>
+
+    </footer><!--/Footer-->
+    <script src="~/eshop/js/jquery.js"></script>
+    <script src="~/eshop/js/bootstrap.min.js"></script>
+    <script src="~/eshop/js/jquery.scrollUp.min.js"></script>
+    <script src="~/eshop/js/price-range.js"></script>
+    <script src="~/eshop/js/jquery.prettyPhoto.js"></script>
+    <script src="~/eshop/js/main.js"></script>
+</body>
+</html>

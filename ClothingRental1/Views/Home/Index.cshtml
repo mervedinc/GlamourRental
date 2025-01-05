@@ -1,0 +1,117 @@
+﻿
+@using EntityLayer.Entities
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@model IPagedList<EntityLayer.Entities.Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+} 
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#slider-carousel" data-slide-to="1"></li>
+                        <li data-target="#slider-carousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="col-sm-6">
+                                <h1><span style="display:block; text-align:center;">G L A M O U R</span> <span style="display:block; text-align:center;">R E N T A L</span></h1>
+                                <h2>Hayal Ettiğiniz Görünüm</h2>
+                                <p>Hayalinizdeki görünümü gerçeğe dönüştürün! Geniş koleksiyonumuzla özel günleriniz için en özel kıyafetleri kiralayın. </p>
+                                
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/82caa48e27f8be3152cc63d9352691d6.jpg" class="girl img-responsive" alt="" />
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span style="display:block; text-align:center;">G L A M O U R</span> <span style="display:block; text-align:center;">R E N T A L</span></h1>
+                                <h2>Şıklığınızı Kiralayın</h2>
+                                <p> Özel günleriniz için mükemmel abiye elbiseler ve uyumlu aksesuarlar burada! Şimdi şıklığınızı kiralamak için göz atın. </p>
+                                
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/16c3531a56543c79227c5cfda6f1e2ac.jpg" class="girl img-responsive" alt="" />
+@*                                 
+ *@                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span style="display:block; text-align:center;">G L A M O U R</span> <span style="display:block; text-align:center;">R E N T A L</span></h1>
+                                <h2>Trendleri Takip Edin</h2>
+                                <p>En yeni moda trendlerini takip edin ve özel anlarınızda göz kamaştırın. Clothing Rental ile tarzınızı keşfedin.</p>
+                                
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/3c3817f6332d476e666f9a699b8174c7.jpg" class="girl img-responsive" alt="" />
+                                
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->
+
+<section>
+    <div class="container">
+        <div class="row">
+           @*  @foreach (var category in Model)
+            {
+                @Html.Partial("CategoryList")
+                <partial name="CategoryList" />
+            } *@
+            @Html.Partial("CategoryList", ViewData["Categories"] as List<Category>)
+
+            <div class="col-sm-9 padding-right">
+                <div class="features_items">
+                    <!--features_items-->
+                    <h2 class="title text-center">ÜRÜNLERİMİZ</h2>
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-sm-4">
+                            <div class="product-image-wrapper">
+                                <div class="single-products">
+                                    <div class="productinfo text-center">
+                                        <a href="/Product/Details/@item.Id"><img src="@item.Image" width="65" height="110" alt="" /></a>
+                                        <h2>@item.Price ₺</h2>
+                                        <p>@item.Name</p>
+                                        <a href="/Product/Details/@item.Id" class="btn btn-default add-to-cart">Ürün Detay</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, categoryId = ViewBag.CurrentCategory }), PagedListRenderOptions.Classic)
+
+
+
+                </div><!--features_items-->
+               
+
+            </div>
+        </div>
+    </div>
+</section>
+

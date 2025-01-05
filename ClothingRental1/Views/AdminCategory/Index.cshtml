@@ -1,0 +1,55 @@
+﻿@model List<EntityLayer.Entities.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a class="btn btn-primary" href="/AdminCategory/Create">Kategori Ekle</a>
+<br />
+<br />
+<table class="table table-bordered" id="table">
+    <tr>
+        <th>Ad</th>
+        <th>Açıklama</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@Html.ActionLink("Sil","Delete",new {item.Id},new {@class="btn btn-danger",onclick="return confirm ('Silmek İstiyor musunuz?')"})</td> 
+            <td><a class="btn btn-primary" href="/AdminCategory/Update/@item.Id">Güncelle</a></td>
+        </tr>
+    }
+
+</table>
+
+@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+<script src="~/niceadmin/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#table").on("click", ".btnSil", function () {
+            var btn = $(this);
+            bootbox.confirm("Silmek istediğinize emin misiniz?", function (result) {
+                if (result) {
+                    var id = btn.data("id");
+
+                    $.ajax({
+                        type: "GET",
+                        url: "/AdminCategory/Delete/" + id,
+                        success: function () {
+                            btn.parent().parent().remove(); // Değişiklik burada
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr.responseText);
+                        }
+                        // Hata durumunda konsola yazdır
+                    });
+                } else {
+                    bootbox.alert("Silme işlemi iptal edildi!"); // Değişiklik burada
+                }
+            });
+        });
+    });
+</script>

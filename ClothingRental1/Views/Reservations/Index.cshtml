@@ -1,0 +1,40 @@
+﻿@model IEnumerable<EntityLayer.Entities.Reservation>
+
+@{
+    ViewBag.Title = "Reservations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Reservations</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>User</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model)
+        {
+            <tr>
+                <td>@(reservation.Products != null ? reservation.Products.Name : "No Product")</td>
+                <td>@(reservation.User != null ? reservation.User.Email : "No User")</td>
+                <td>@reservation.StartDate.ToString("dd/MM/yyyy")</td>
+                <td>@reservation.EndDate.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@reservation.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@reservation.Id" class="btn btn-warning">Edit</a>
+                    <form asp-action="Delete" asp-route-id="@reservation.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Reservation</a>

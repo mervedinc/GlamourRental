@@ -1,0 +1,306 @@
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\9bitti\8bitti\a\ClothingRental1 (4)\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13videosonu\10videosonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\13shocayla\13sonuU\13sonu1\13sonu\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\sondetay\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\nisao\Desktop\son2605) (2)\son2605)\son2605)\soncss (2)\soncss\10sonu\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Downloads\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\merve\Desktop\Glamour Rental Bitirme Projem\ClothingRental\ClothingRental1\ClothingRental1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

@@ -1,0 +1,73 @@
+﻿@model EntityLayer.Entities.Reservation
+
+@{
+    ViewBag.Title = "Create Reservation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    var product = ViewBag.Product;
+}
+<h2>Create Reservation</h2>
+
+<form asp-action="Create" method="post">
+    <input type="hidden" asp-for="ProductId" value="@ViewBag.ProductId" />
+    <input type="hidden" asp-for="UserId" value="@ViewBag.UserId"/>
+    <div class="form-group">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input asp-for="StartDate" class="form-control" type="date" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate" class="control-label"></label>
+        <input asp-for="EndDate" class="form-control" type="date" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kirala</button>
+
+</form>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var startDateInput = document.getElementById('startDate');
+        var endDateInput = document.getElementById('endDate');
+
+        if (startDateInput && endDateInput) {
+            var unavailableDates = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.UnavailableDates));
+
+            startDateInput.addEventListener('change', validateDates);
+            endDateInput.addEventListener('change', validateDates);
+
+            function validateDates() {
+                var startDate = new Date(startDateInput.value);
+                var endDate = new Date(endDateInput.value);
+
+                if (startDate >= endDate) {
+                    alert('Start date must be before end date.');
+                    startDateInput.value = '';
+                    endDateInput.value = '';
+                    return;
+                }
+
+                for (var i = 0; i < unavailableDates.length; i++) {
+                    var unavailableStart = new Date(unavailableDates[i].StartDate);
+                    var unavailableEnd = new Date(unavailableDates[i].EndDate);
+
+                    if ((startDate >= unavailableStart && startDate <= unavailableEnd) ||
+                        (endDate >= unavailableStart && endDate <= unavailableEnd) ||
+                        (startDate <= unavailableStart && endDate >= unavailableEnd)) {
+                        alert('Selected dates are unavailable.');
+                        startDateInput.value = '';
+                        endDateInput.value = '';
+                        return;
+                    }
+                }
+            }
+        } else {
+            console.error('StartDate or EndDate input element not found');
+        }
+    });
+
+</script>

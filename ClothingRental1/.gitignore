@@ -1,0 +1,14 @@
+﻿# Visual Studio için geçici dosyalar
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Çıktı dosyaları
+bin/
+obj/
+
+# Log ve temp dosyaları
+*.log
+*.tmp

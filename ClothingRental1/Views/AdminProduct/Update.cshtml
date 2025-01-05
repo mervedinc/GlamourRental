@@ -1,0 +1,57 @@
+﻿@model EntityLayer.Entities.Product
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+                <div class="form-group">
+                    <label>Ad</label>
+                    <input type="text" class="form-control" name="Name" value="@Model.Name" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <input type="text" class="form-control" name="Description" value="@Model.Description" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Resim</label>
+                    <input type="file" class="form-control" name="File" value="@Model.Image" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Fiyat</label>
+                    <input type="text" class="form-control" name="Price" value="@Model.Price" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Stok</label>
+                    <input type="text" class="form-control" name="Stock" value="@Model.Stock" />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Onay</label>
+                    @Html.EditorFor(x => x.IsApproved)
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Kategori</label>
+                    @Html.DropDownListFor(x => x.CategoryId, (IEnumerable<SelectListItem>)ViewBag.ktgr, new { @class = "form-control" })
+                </div>
+
+                <br />
+                <button class="btn btn-primary" type="submit">Güncelle</button>
+                <a href="/AdminProduct/Index" class="btn btn-primary">Ürün Listesi</a>
+            </form>
+        </div>
+    </div>
+</div>

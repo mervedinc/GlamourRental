@@ -1,0 +1,107 @@
+﻿@using EntityLayer.Entities
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.StaticPagedList<EntityLayer.Entities.Product>
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@* <h1>ÜRÜN DETAYLARI</h1>
+ *@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Product Detay | CLOTHINGRENTAL</title>
+    <link href="~/eshop/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/eshop/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/eshop/css/prettyPhoto.css" rel="stylesheet">
+    <link href="~/eshop/css/price-range.css" rel="stylesheet">
+    <link href="~/eshop/css/animate.css" rel="stylesheet">
+    <link href="~/eshop/css/main.css" rel="stylesheet">
+    <link href="~/eshop/css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="~/eshop/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="~/eshop/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="~/eshop/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="~/eshop/images/ico/apple-touch-icon-57-precomposed.png">
+
+
+
+    <title>Tarih Seçimi</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <style>
+        .ui-datepicker-unselectable .ui-state-disabled {
+            background-color: #d9d9d9; /* Tarihler için gri arka plan */
+        }
+    </style>
+</head><!--/head-->
+
+<body>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                @await Html.PartialAsync("CategoryList", Model.Select(p => p.Category).Distinct().ToList())
+
+                <div class="col-sm-9 padding-right">
+                    <div class="product-details">
+                        @foreach (var product in Model)
+                        {
+                            <div class="col-sm-5">
+                                <div class="view-product">
+                                    <a href="/Product/Details/@product.Id"><img src="@product.Image" width="65" height="110" alt="" /></a>
+                                </div>
+                            </div>
+                            <div class="col-sm-7">
+                                <div class="product-information">
+                                    <h2>Ürün Adı: @product.Name</h2>
+
+                                    <span>
+                                        <span>@product.Price TL</span>
+
+                                        @* <a class="btn btn-fefault cart" style="margin-top:15px" href="/Cart/AddCart/@product.Id">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            Sepete Ekle
+                                        </a> *@
+
+                                        <!-- Kirala butonunu ekliyoruz -->
+                                        <a href="/Reservations/Create?productId=@product.Id" class="btn btn-primary" style="margin-top:15px">Kirala</a>
+                                    </span>
+                                    <p><b>Kategori:</b> @product.Category.Name</p>
+    @*                                 <p><b>Stok:</b> @product.Stock</p>
+                                    <p><b>Onay:</b> @product.IsApproved</p> *@
+                                    <p><b>Açıklama:</b> @product.Description</p>
+                                    <a href=""><img src="images/product-details/share.png" class="share img-responsive" alt="" /></a>
+
+                                    
+                                   
+                                </div><!--/product-information-->
+                            </div>
+                        }
+
+                    </div><!--/product-details-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="~/eshop/js/jquery.js"></script>
+    <script src="~/eshop/js/price-range.js"></script>
+    <script src="~/eshop/js/jquery.scrollUp.min.js"></script>
+    <script src="~/eshop/js/bootstrap.min.js"></script>
+    <script src="~/eshop/js/jquery.prettyPhoto.js"></script>
+    <script src="~/eshop/js/main.js"></script>
+</body>
+</html>
